@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">八字排盘</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="time_format">yyyy\u3000年\u3000MM\u3000月\u3000dd\u3000日\u3000\u3000HH:MM</string>
+    <string name="time_date">yyyy\u3000年\u3000MM\u3000月\u3000dd\u3000日</string>
+    <string name="time_format_search">yyyy年MM月dd日HH:MM:ss</string>
+</resources>
